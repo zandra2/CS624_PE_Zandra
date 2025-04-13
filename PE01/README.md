@@ -1,4 +1,4 @@
-# My Resume
+# PE01
 This project is using React Native, Expo and Expo Go to create a first mobile application based on the following requirements:
 
 1. **User Requirements** - Text messages in a yellow background color. The text messages show: name, degree program, and school and department.
