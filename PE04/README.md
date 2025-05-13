@@ -13,7 +13,7 @@ Now take the completed Profile Card from Part 1, complete the following user req
 
 **User Requirements:**
 1. Create a six Profile Card thumbnails, two cards per row (total of 3 rows).
-2. Each Card Profile must display: user image, name, title and job description.
+2. Each Profile Card must display: user image, name, title and job description.
 3. When clicked on the thumbnail, the Card Profile will expand. 
 4. Use Flexbox layout tool and Transformation property to scale the Card Profile.
 
